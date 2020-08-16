@@ -9,7 +9,7 @@
 \LoadClass{article}
 
 % Package Imports
-\usepackage[a4paper, total={6in, 8in},hmargin=1.25cm, vmargin=0.7cm]{geometry}
+\usepackage[a4paper, total={210mm, 297mm}, hmargin=1cm, vmargin=0.5cm]{geometry}
 \usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{titlesec}
 \usepackage[absolute]{textpos}
